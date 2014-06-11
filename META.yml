@@ -26,5 +26,7 @@ requires:
   XML::LibXML: 0
   perl: 5.010
 resources:
-  repository: git://github.com/catalyst/Authen-NZRealMe.git
-version: 1.11
+  bugtracker: https://github.com/catalyst/Authen-NZRealMe/issues
+  homepage: https://github.com/catalyst/Authen-NZRealMe
+  repository: https://github.com/catalyst/Authen-NZRealMe.git
+version: 1.12

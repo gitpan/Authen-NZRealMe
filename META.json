@@ -49,12 +49,16 @@
    },
    "release_status" : "stable",
    "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/catalyst/Authen-NZRealMe/issues"
+      },
+      "homepage" : "https://github.com/catalyst/Authen-NZRealMe",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/catalyst/Authen-NZRealMe.git",
+         "url" : "https://github.com/catalyst/Authen-NZRealMe.git",
          "web" : "https://github.com/catalyst/Authen-NZRealMe"
       }
    },
-   "version" : "1.11"
+   "version" : "1.12"
 }
 

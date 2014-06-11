@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ICMSResolutionRequest;
 {
-  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.11';
+  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.12';
 }
 
 use warnings;
@@ -161,7 +161,7 @@ resolve to an FLT.
 
 Constructor.  Should not be called directly.  Instead, call the
 C<resolve_artifact> method on the service provider with the 'resolve_flt'
-argument.
+option set to a true value.
 
 =head2 icms_token
 

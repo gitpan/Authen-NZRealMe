@@ -1,6 +1,6 @@
 package Authen::NZRealMe::TokenGenerator;
 {
-  $Authen::NZRealMe::TokenGenerator::VERSION = '1.11';
+  $Authen::NZRealMe::TokenGenerator::VERSION = '1.12';
 }
 
 use strict;

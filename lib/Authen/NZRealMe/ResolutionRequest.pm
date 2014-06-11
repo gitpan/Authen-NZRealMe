@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ResolutionRequest;
 {
-  $Authen::NZRealMe::ResolutionRequest::VERSION = '1.11';
+  $Authen::NZRealMe::ResolutionRequest::VERSION = '1.12';
 }
 
 use warnings;
