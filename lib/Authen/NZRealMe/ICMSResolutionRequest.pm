@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ICMSResolutionRequest;
 {
-  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.13';
+  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.14';
 }
 
 use warnings;
@@ -126,7 +126,7 @@ sub _generate_flt_resolve_doc {
             ),
         ),
     ) . "";
-    my @signed_part_ids = values $signed_parts;
+    my @signed_part_ids = values %$signed_parts;
     $soap_request = $self->_sign_xml( $soap_request, \@signed_part_ids );
 
     $self->{request_data} = $soap_request;
