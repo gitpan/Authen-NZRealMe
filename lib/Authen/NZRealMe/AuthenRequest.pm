@@ -1,6 +1,6 @@
 package Authen::NZRealMe::AuthenRequest;
 {
-  $Authen::NZRealMe::AuthenRequest::VERSION = '1.12';
+  $Authen::NZRealMe::AuthenRequest::VERSION = '1.13';
 }
 
 use strict;
