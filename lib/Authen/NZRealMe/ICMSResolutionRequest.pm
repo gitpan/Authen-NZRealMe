@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ICMSResolutionRequest;
 {
-  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.14';
+  $Authen::NZRealMe::ICMSResolutionRequest::VERSION = '1.15';
 }
 
 use warnings;

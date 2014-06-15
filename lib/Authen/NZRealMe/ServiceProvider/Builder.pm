@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ServiceProvider::Builder;
 {
-  $Authen::NZRealMe::ServiceProvider::Builder::VERSION = '1.14';
+  $Authen::NZRealMe::ServiceProvider::Builder::VERSION = '1.15';
 }
 
 use warnings;

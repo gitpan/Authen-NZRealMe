@@ -1,6 +1,6 @@
 package Authen::NZRealMe::ServiceProvider::CertFactory;
 {
-  $Authen::NZRealMe::ServiceProvider::CertFactory::VERSION = '1.14';
+  $Authen::NZRealMe::ServiceProvider::CertFactory::VERSION = '1.15';
 }
 
 use warnings;

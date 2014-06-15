@@ -17,9 +17,11 @@ requires:
   Crypt::OpenSSL::RSA: 0
   Crypt::OpenSSL::X509: 0
   Data::UUID: 0
+  Date::Parse: 0
   Digest::SHA: 0
   IO::Compress::RawDeflate: 0
   LWP: 0
+  MIME::Base64: 3.11
   URI: 0
   WWW::Curl: 0
   XML::Generator: 0
@@ -29,4 +31,4 @@ resources:
   bugtracker: https://github.com/catalyst/Authen-NZRealMe/issues
   homepage: https://github.com/catalyst/Authen-NZRealMe
   repository: https://github.com/catalyst/Authen-NZRealMe.git
-version: 1.14
+version: 1.15

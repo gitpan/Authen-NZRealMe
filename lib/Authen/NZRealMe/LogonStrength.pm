@@ -1,6 +1,6 @@
 package Authen::NZRealMe::LogonStrength;
 {
-  $Authen::NZRealMe::LogonStrength::VERSION = '1.14';
+  $Authen::NZRealMe::LogonStrength::VERSION = '1.15';
 }
 
 use strict;
